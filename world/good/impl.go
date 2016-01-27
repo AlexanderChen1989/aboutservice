@@ -3,7 +3,7 @@ package good
 import (
 	"log"
 
-	"github.com/AlexanderChen1989/recoverme/world"
+	"github.com/AlexanderChen1989/aboutservice/world"
 )
 
 // Worlder implementation

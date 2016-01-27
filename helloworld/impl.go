@@ -3,10 +3,10 @@ package helloworld
 import (
 	"log"
 
-	"github.com/AlexanderChen1989/recoverme/hello"
-	"github.com/AlexanderChen1989/recoverme/world"
-	"github.com/AlexanderChen1989/recoverme/world/bad"
-	"github.com/AlexanderChen1989/recoverme/world/good"
+	"github.com/AlexanderChen1989/aboutservice/hello"
+	"github.com/AlexanderChen1989/aboutservice/world"
+	"github.com/AlexanderChen1989/aboutservice/world/bad"
+	"github.com/AlexanderChen1989/aboutservice/world/good"
 )
 
 // HelloWorlder implementation

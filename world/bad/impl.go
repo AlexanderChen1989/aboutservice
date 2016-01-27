@@ -1,6 +1,6 @@
 package bad
 
-import "github.com/AlexanderChen1989/recoverme/world"
+import "github.com/AlexanderChen1989/aboutservice/world"
 
 // Worlder implementation
 type badWorld struct{}
